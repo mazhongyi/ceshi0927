@@ -15,6 +15,7 @@
 		E00CF5301F7B6D8400E42220 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E00CF52E1F7B6D8400E42220 /* LaunchScreen.storyboard */; };
 		E00CF53B1F7B6D8400E42220 /* ceshi0927Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF53A1F7B6D8400E42220 /* ceshi0927Tests.m */; };
 		E00CF5461F7B6D8400E42220 /* ceshi0927UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5451F7B6D8400E42220 /* ceshi0927UITests.m */; };
+		E00CF5551F7B6E5C00E42220 /* mzy.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5541F7B6E5C00E42220 /* mzy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		E00CF5411F7B6D8400E42220 /* ceshi0927UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ceshi0927UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E00CF5451F7B6D8400E42220 /* ceshi0927UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ceshi0927UITests.m; sourceTree = "<group>"; };
 		E00CF5471F7B6D8400E42220 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E00CF5531F7B6E5C00E42220 /* mzy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mzy.h; sourceTree = "<group>"; };
+		E00CF5541F7B6E5C00E42220 /* mzy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mzy.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				E00CF5241F7B6D8400E42220 /* AppDelegate.m */,
 				E00CF5261F7B6D8400E42220 /* ViewController.h */,
 				E00CF5271F7B6D8400E42220 /* ViewController.m */,
+				E00CF5531F7B6E5C00E42220 /* mzy.h */,
+				E00CF5541F7B6E5C00E42220 /* mzy.m */,
 				E00CF5291F7B6D8400E42220 /* Main.storyboard */,
 				E00CF52C1F7B6D8400E42220 /* Assets.xcassets */,
 				E00CF52E1F7B6D8400E42220 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E00CF5551F7B6E5C00E42220 /* mzy.m in Sources */,
 				E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */,
 				E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */,
 				E00CF5221F7B6D8400E42220 /* main.m in Sources */,
@@ -518,6 +524,7 @@
 				E00CF54C1F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E00CF54D1F7B6D8400E42220 /* Build configuration list for PBXNativeTarget "ceshi0927Tests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +533,7 @@
 				E00CF54F1F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E00CF5501F7B6D8400E42220 /* Build configuration list for PBXNativeTarget "ceshi0927UITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +542,7 @@
 				E00CF5521F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
