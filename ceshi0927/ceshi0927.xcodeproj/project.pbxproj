@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		58383805215388C4007AAFF9 /* t5.m in Sources */ = {isa = PBXBuildFile; fileRef = 58383804215388C4007AAFF9 /* t5.m */; };
+		5838380821538918007AAFF9 /* t6.m in Sources */ = {isa = PBXBuildFile; fileRef = 5838380721538918007AAFF9 /* t6.m */; };
 		E00CF5221F7B6D8400E42220 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5211F7B6D8400E42220 /* main.m */; };
 		E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5241F7B6D8400E42220 /* AppDelegate.m */; };
 		E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5271F7B6D8400E42220 /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* Begin PBXFileReference section */
 		58383803215388C4007AAFF9 /* t5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = t5.h; sourceTree = "<group>"; };
 		58383804215388C4007AAFF9 /* t5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = t5.m; sourceTree = "<group>"; };
+		5838380621538918007AAFF9 /* t6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = t6.h; sourceTree = "<group>"; };
+		5838380721538918007AAFF9 /* t6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = t6.m; sourceTree = "<group>"; };
 		E00CF51D1F7B6D8400E42220 /* ceshi0927.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi0927.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E00CF5211F7B6D8400E42220 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E00CF5231F7B6D8400E42220 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -114,6 +117,8 @@
 				E00CF5531F7B6E5C00E42220 /* mzy.h */,
 				58383803215388C4007AAFF9 /* t5.h */,
 				58383804215388C4007AAFF9 /* t5.m */,
+				5838380621538918007AAFF9 /* t6.h */,
+				5838380721538918007AAFF9 /* t6.m */,
 				E00CF5541F7B6E5C00E42220 /* mzy.m */,
 				E00CF5291F7B6D8400E42220 /* Main.storyboard */,
 				E00CF52C1F7B6D8400E42220 /* Assets.xcassets */,
@@ -291,6 +296,7 @@
 				58383805215388C4007AAFF9 /* t5.m in Sources */,
 				E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */,
 				E00CF5221F7B6D8400E42220 /* main.m in Sources */,
+				5838380821538918007AAFF9 /* t6.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
