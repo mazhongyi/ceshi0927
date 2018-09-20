@@ -19,6 +19,8 @@
     
     //ceshi   0927
     // Do any additional setup after loading the view, typically from a nib.
+    UIButton *btn1  = [[UIButton alloc]init];
+    btn1.frame = CGRectMake(0, 0, 0, 0);
 }
 
 
