@@ -17,10 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
-    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi11"];
-    //ceshi   0927
-    // Do any additional setup after loading the view, typically from a nib.
+
+    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi"];
+
+
 }
 
 
