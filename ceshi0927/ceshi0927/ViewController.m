@@ -18,7 +18,9 @@
     [super viewDidLoad];
     
 
-    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi李斌"];
+    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi11"];
+    
+     NSString *t2 = [NSString stringWithFormat:@"bushifenzhi11"];
 
 
 }
