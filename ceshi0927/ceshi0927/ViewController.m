@@ -18,9 +18,11 @@
     [super viewDidLoad];
     
     
-    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi马仲意"];
-    //ceshi   0927
-    // Do any additional setup after loading the view, typically from a nib.
+    NSString *t1 = [NSString stringWithFormat:@"bushifenzhi11"];
+    
+     NSString *t2 = [NSString stringWithFormat:@"bushifenzhi11"];
+    
+
 }
 
 
