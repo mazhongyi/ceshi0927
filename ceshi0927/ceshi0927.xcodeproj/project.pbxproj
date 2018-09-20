@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		583837FC21538359007AAFF9 /* t1.m in Sources */ = {isa = PBXBuildFile; fileRef = 583837FB21538359007AAFF9 /* t1.m */; };
 		E00CF5221F7B6D8400E42220 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5211F7B6D8400E42220 /* main.m */; };
 		E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5241F7B6D8400E42220 /* AppDelegate.m */; };
 		E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5271F7B6D8400E42220 /* ViewController.m */; };
@@ -37,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		583837FA21538359007AAFF9 /* t1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = t1.h; sourceTree = "<group>"; };
-		583837FB21538359007AAFF9 /* t1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = t1.m; sourceTree = "<group>"; };
 		E00CF51D1F7B6D8400E42220 /* ceshi0927.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi0927.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E00CF5211F7B6D8400E42220 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E00CF5231F7B6D8400E42220 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,8 +107,6 @@
 				E00CF5231F7B6D8400E42220 /* AppDelegate.h */,
 				E00CF5241F7B6D8400E42220 /* AppDelegate.m */,
 				E00CF5261F7B6D8400E42220 /* ViewController.h */,
-				583837FA21538359007AAFF9 /* t1.h */,
-				583837FB21538359007AAFF9 /* t1.m */,
 				E00CF5271F7B6D8400E42220 /* ViewController.m */,
 				E00CF5531F7B6E5C00E42220 /* mzy.h */,
 				E00CF5541F7B6E5C00E42220 /* mzy.m */,
@@ -286,7 +281,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				583837FC21538359007AAFF9 /* t1.m in Sources */,
 				E00CF5551F7B6E5C00E42220 /* mzy.m in Sources */,
 				E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */,
 				E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */,
