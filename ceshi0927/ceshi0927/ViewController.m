@@ -22,6 +22,7 @@
     
     UIButton *btn2  = [[UIButton alloc]init];
     btn2.frame = CGRectMake(1, 1, 1, 1);
+    [self.view addSubview:btn2];
 }
 
 
