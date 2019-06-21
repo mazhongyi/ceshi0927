@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		585A507922BC73930069B1AD /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 585A507822BC73930069B1AD /* TableViewCell.m */; };
 		E00CF5221F7B6D8400E42220 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5211F7B6D8400E42220 /* main.m */; };
 		E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5241F7B6D8400E42220 /* AppDelegate.m */; };
 		E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E00CF5271F7B6D8400E42220 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		585A507722BC73930069B1AD /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		585A507822BC73930069B1AD /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 		E00CF51D1F7B6D8400E42220 /* ceshi0927.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi0927.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E00CF5211F7B6D8400E42220 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E00CF5231F7B6D8400E42220 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +81,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		585A507622BC737F0069B1AD /* 测试 */ = {
+			isa = PBXGroup;
+			children = (
+				585A507722BC73930069B1AD /* TableViewCell.h */,
+				585A507822BC73930069B1AD /* TableViewCell.m */,
+			);
+			path = "测试";
+			sourceTree = SOURCE_ROOT;
+		};
 		E00CF5141F7B6D8400E42220 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +113,7 @@
 		E00CF51F1F7B6D8400E42220 /* ceshi0927 */ = {
 			isa = PBXGroup;
 			children = (
+				585A507622BC737F0069B1AD /* 测试 */,
 				E00CF5231F7B6D8400E42220 /* AppDelegate.h */,
 				E00CF5241F7B6D8400E42220 /* AppDelegate.m */,
 				E00CF5261F7B6D8400E42220 /* ViewController.h */,
@@ -277,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E00CF5281F7B6D8400E42220 /* ViewController.m in Sources */,
+				585A507922BC73930069B1AD /* TableViewCell.m in Sources */,
 				E00CF5251F7B6D8400E42220 /* AppDelegate.m in Sources */,
 				E00CF5221F7B6D8400E42220 /* main.m in Sources */,
 			);
@@ -518,6 +532,7 @@
 				E00CF54C1F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E00CF54D1F7B6D8400E42220 /* Build configuration list for PBXNativeTarget "ceshi0927Tests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +541,7 @@
 				E00CF54F1F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E00CF5501F7B6D8400E42220 /* Build configuration list for PBXNativeTarget "ceshi0927UITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +550,7 @@
 				E00CF5521F7B6D8400E42220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
