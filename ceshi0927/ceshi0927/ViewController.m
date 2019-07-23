@@ -18,13 +18,7 @@
     [super viewDidLoad];
     
     //ceshi   0927
-    // Do any additional setup after loading the view, typically from a nib.
-    //大三大四大四大四的爱上的啊打 多少
-    //dsadsadasdas
-    //
-    //dasdasdas/
-    //dasdas/
-    //dasdasdasda
+    // Do any additional setup after loading the view, typically 
 }
 
 
