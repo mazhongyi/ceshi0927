@@ -18,7 +18,8 @@
     [super viewDidLoad];
     
     //ceshi   0927
-    // Do any additional setup after loading the view, typically from a nib.
+
+    // Do any additional setup after loading the view, typically 
 
 }
 
