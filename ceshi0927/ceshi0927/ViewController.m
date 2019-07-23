@@ -19,7 +19,8 @@
     
     //ceshi   0927
 
-    // Do any additional setup after loading the view, typically 
+    // Do any additional setup after loading the view, typically
+    //master one 
 
 }
 
